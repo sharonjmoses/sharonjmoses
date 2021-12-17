@@ -26,3 +26,8 @@
 #### Github Stats
 
 ![sharon`s github stats](https://github-readme-stats.vercel.app/api?username=sharonjmoses&count_private=true&theme=tokyonight&hide=contribs,prs)
+
+
+![Most Used Langauges](https://github-readme-stats.vercel.app/api/top-langs/?username=sharonjmoses&layout=compact&theme=dark&langs_count=7&hide=processing)
+
+
