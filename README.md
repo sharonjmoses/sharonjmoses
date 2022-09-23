@@ -3,7 +3,6 @@
 <!-- TODO: Add last video link -->
 
 - 🔭 Hi I'm Sharon Moses J
-- 🤔 stuck in the future 
 - 📫 How to reach me: smj.vit@gmail.com.
 - :computer: People don't care about what you say, they care about what you build.
 
