@@ -2,7 +2,7 @@
 
 <!-- TODO: Add last video link -->
 
-- 🔭 Hi I'm Sharon Moses J
+- 🔭 Hi I'm Sharon
 - 📫 How to reach me: smj.vit@gmail.com.
 - :computer: People don't care about what you say, they care about what you build.
 
@@ -22,11 +22,12 @@
 </details> -->
 
 
-#### Github Stats
+<!-- #### Github Stats -->
 
 
-<div align="center">
+<!-- <div align="center">
     <p align="left">
       <img src="https://github-readme-stats.vercel.app/api?username=sharonjmoses&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Sharon's GitHub stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharonjmoses&layout=compact&theme=dark&langs_count=7&hide=processing&" alt="Top Languages" height="165">
     </p>
 </div>
+ -->
